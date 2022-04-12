@@ -2,9 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ## Installation
-'''bash
 git clone https://github.com/zagreus9/kodluyoruzilkrepo.git
-'''
 
 ## Usage
 
